@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Nicolás Agurto 👋
+### Desarrollador de Software | Entusiasta de la Tecnología
 
-<!--
-**nagurtoc1/nagurtoc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Estoy aprendiendo sobre **Arquitectura de Software y Cloud**
+- 👯 Busco colaborar en proyectos de **Open Source**
+- 📫 Cómo contactarme: nagurtoc@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Lenguajes y Herramientas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
